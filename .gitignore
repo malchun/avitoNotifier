@@ -1,0 +1,12 @@
+# IDEA
+.idea/
+
+#dotenv
+.env*
+
+#Python
+venv
+__pycache__
+
+#Stuff
+examples
