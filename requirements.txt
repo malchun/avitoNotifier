@@ -1,0 +1,2 @@
+notifiers==1.2.1
+beautifulsoup4==4.9.3
